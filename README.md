@@ -9,7 +9,8 @@ Please unzip `yolov3-spp.weights` to `joints_detectors\Alphapose\models\yolo`.
 
 Please decompress `duc_se.pth` to `joints_detectors\Alphapose\models\sppe`.
 
-Please extract `Data.rar` to `Data`
+Please extract `Data.rar` to `Data`,Be careful not to download `dataset.rar`, please download `data.rar` here.
+
 Please put `pretrained_h36m_detectron_coco.bin`, `PSTMO_no_refine_6_4215_h36m_cpn.pth`,
 `PSTMO_no_refine_11_4288_h36m_cpn.pth`, `PSTMO_refine_6_4215_h36m_cpn.pth`,
 `PSTMOS_no_refine_15_2936_h36m_gt.pth`, `PSTMOS_no_refine_28_4306_h36m_cpn.pth`,
